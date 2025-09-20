@@ -1,7 +1,9 @@
 No Auto Links - phpBB Extension
 
 A phpBB extension that disables automatic URL linking (magic_url) while preserving manual [url] BBCode functionality.
+
 📝 Description
+
 This extension solves the common issue where phpBB automatically converts plain text URLs into clickable links. With this extension installed, URLs typed in posts will remain as plain text, but users can still create links using the [url] BBCode tag when they want to.
 What it does:
 
@@ -18,6 +20,7 @@ Boards where plain text URLs should stay as text
 Sites wanting cleaner post formatting
 
 🚀 Installation
+
 Method 1: Manual Installation
 
 Download the extension files
